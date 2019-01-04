@@ -2,14 +2,11 @@
     margin-bottom: 0
 }
 
-.education, .volunteer{
-    margin: 10px 0;
-}
 
-.education{
+/* .education{
     box-shadow: #333 0px 2px 5px 0px;
     padding: 10px 0 5px 15px;
-}
+} */
 .profile-info{
     padding: 2rem;
     text-align: center;
@@ -32,4 +29,8 @@
     /* border-radius: 50%; */
     /* height: 200px; */
     width: 200px;
+}
+
+h2,h3,h4,h5,h6,p{
+    text-shadow: #000 1px 1px 1px;
 }
