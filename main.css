@@ -6,6 +6,10 @@
     margin: 10px 0;
 }
 
+.education{
+    box-shadow: #333 0px 2px 5px 0px;
+    padding: 10px 0 5px 15px;
+}
 .profile-info{
     padding: 2rem;
     text-align: center;
@@ -23,3 +27,9 @@
   .text-over{
       opacity: .5;
   }
+
+.pro-pic{
+    /* border-radius: 50%; */
+    /* height: 200px; */
+    width: 200px;
+}
